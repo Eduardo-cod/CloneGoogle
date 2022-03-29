@@ -80,6 +80,13 @@
     cursor: pointer;
 }
 
+#search:hover{
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+
 #lucky{
     background-color:  #f8f9fa;
     order: 1px solid #f8f9fa;
@@ -94,6 +101,13 @@
     min-width: 54px;
     text-align: center;
     cursor: pointer;
+}
+
+#lucky:hover{
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
 }
 
 .ofrecidoGoogle{
